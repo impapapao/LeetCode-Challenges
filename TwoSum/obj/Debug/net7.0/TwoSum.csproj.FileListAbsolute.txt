@@ -1,0 +1,15 @@
+C:\Users\Paolo Gonzales\Documents\GitHub\LeetCode-Challenges\TwoSum\bin\Debug\net7.0\TwoSum.exe
+C:\Users\Paolo Gonzales\Documents\GitHub\LeetCode-Challenges\TwoSum\bin\Debug\net7.0\TwoSum.deps.json
+C:\Users\Paolo Gonzales\Documents\GitHub\LeetCode-Challenges\TwoSum\bin\Debug\net7.0\TwoSum.runtimeconfig.json
+C:\Users\Paolo Gonzales\Documents\GitHub\LeetCode-Challenges\TwoSum\bin\Debug\net7.0\TwoSum.dll
+C:\Users\Paolo Gonzales\Documents\GitHub\LeetCode-Challenges\TwoSum\bin\Debug\net7.0\TwoSum.pdb
+C:\Users\Paolo Gonzales\Documents\GitHub\LeetCode-Challenges\TwoSum\obj\Debug\net7.0\TwoSum.csproj.AssemblyReference.cache
+C:\Users\Paolo Gonzales\Documents\GitHub\LeetCode-Challenges\TwoSum\obj\Debug\net7.0\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paolo Gonzales\Documents\GitHub\LeetCode-Challenges\TwoSum\obj\Debug\net7.0\TwoSum.AssemblyInfoInputs.cache
+C:\Users\Paolo Gonzales\Documents\GitHub\LeetCode-Challenges\TwoSum\obj\Debug\net7.0\TwoSum.AssemblyInfo.cs
+C:\Users\Paolo Gonzales\Documents\GitHub\LeetCode-Challenges\TwoSum\obj\Debug\net7.0\TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\Paolo Gonzales\Documents\GitHub\LeetCode-Challenges\TwoSum\obj\Debug\net7.0\TwoSum.dll
+C:\Users\Paolo Gonzales\Documents\GitHub\LeetCode-Challenges\TwoSum\obj\Debug\net7.0\refint\TwoSum.dll
+C:\Users\Paolo Gonzales\Documents\GitHub\LeetCode-Challenges\TwoSum\obj\Debug\net7.0\TwoSum.pdb
+C:\Users\Paolo Gonzales\Documents\GitHub\LeetCode-Challenges\TwoSum\obj\Debug\net7.0\TwoSum.genruntimeconfig.cache
+C:\Users\Paolo Gonzales\Documents\GitHub\LeetCode-Challenges\TwoSum\obj\Debug\net7.0\ref\TwoSum.dll
